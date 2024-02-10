@@ -1,0 +1,66 @@
+.container{
+    
+    height:100% ;
+    width: 100%;
+    display: grid;
+    background-image: url('https://i.ytimg.com/vi/u1ZUYdVMprY/maxresdefault.jpg');
+    aspect-ratio: 3/3;
+    background-size:contain;
+    background-repeat: no-repeat;
+    border: 2px solid blue;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    
+    
+
+
+}
+
+.heading{
+    font-size: 3rem;
+    font-weight: bolder;
+    color: rgb(230, 151, 148);
+    background-color: aquamarine;
+    width: 768px;
+}
+
+
+
+.herosection{
+    border: 2px solid red;
+    height: 50px;
+    margin-top: 190px;
+    width: 100vh;
+    border-top: 0px ;
+    border-left: 0px;
+    border-right: 0px;
+    display: grid;
+    
+    justify-content: center;
+    
+
+}
+
+.form{
+    display: grid;
+    margin:20px;
+    
+    
+}
+
+.input{
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 100%;
+}
+
+.btn{
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 8px;
+}
+
+
